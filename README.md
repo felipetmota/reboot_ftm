@@ -15,6 +15,7 @@ In the final create a data visualisation dashboard to display your results.
 - Visual Studio Code
 - Jupyter Notebook
 - AWS (EC2, s3)
+- PowerBI
 
 # Language 
 - Python 3.8
@@ -35,6 +36,8 @@ notebooks/
 app.py
 secrets.py (AWS IAM)
 ```
+# Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiM2NiMThkNTEtZmM1Yi00ZjY2LTliZDMtMDYyZjAwZTJlMzY4IiwidCI6IjFmMWNiM2Q0LWU2NzItNGQzNC05NWNmLWQ0NzNiMWM1MjY1NSJ9
 
 # Data
 https://www.tripadvisor.co.uk/Restaurants-g186216-United_Kingdom.html
